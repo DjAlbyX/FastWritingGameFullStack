@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Albert\\source\\repos\\APIforReact\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2CCA0FA-AC02-48D5-B0A9-4027E2B66C7A}|APIforReact\\APIforReact.csproj|c:\\users\\albert\\source\\repos\\apiforreact\\apiforreact\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2CCA0FA-AC02-48D5-B0A9-4027E2B66C7A}|APIforReact\\APIforReact.csproj|solutionrelative:apiforreact\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2CCA0FA-AC02-48D5-B0A9-4027E2B66C7A}|APIforReact\\APIforReact.csproj|c:\\users\\albert\\source\\repos\\apiforreact\\apiforreact\\wordrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2CCA0FA-AC02-48D5-B0A9-4027E2B66C7A}|APIforReact\\APIforReact.csproj|solutionrelative:apiforreact\\wordrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2CCA0FA-AC02-48D5-B0A9-4027E2B66C7A}|APIforReact\\APIforReact.csproj|c:\\users\\albert\\source\\repos\\apiforreact\\apiforreact\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2CCA0FA-AC02-48D5-B0A9-4027E2B66C7A}|APIforReact\\APIforReact.csproj|solutionrelative:apiforreact\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5189FC1-E3DF-47D1-BB9C-11B8FF4FFA42}|WordRequestTest\\WordRequestTest.csproj|c:\\users\\albert\\source\\repos\\apiforreact\\wordrequesttest\\wordrequesttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5189FC1-E3DF-47D1-BB9C-11B8FF4FFA42}|WordRequestTest\\WordRequestTest.csproj|solutionrelative:wordrequesttest\\wordrequesttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 235,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WordRequestTests.cs",
+              "DocumentMoniker": "C:\\Users\\Albert\\source\\repos\\APIforReact\\WordRequestTest\\WordRequestTests.cs",
+              "RelativeDocumentMoniker": "WordRequestTest\\WordRequestTests.cs",
+              "ToolTip": "C:\\Users\\Albert\\source\\repos\\APIforReact\\WordRequestTest\\WordRequestTests.cs",
+              "RelativeToolTip": "WordRequestTest\\WordRequestTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T08:41:25.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Albert\\source\\repos\\APIforReact\\APIforReact\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "APIforReact\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Albert\\source\\repos\\APIforReact\\APIforReact\\Properties\\launchSettings.json",
+              "RelativeToolTip": "APIforReact\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-16T12:55:28.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WordRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Albert\\source\\repos\\APIforReact\\APIforReact\\WordRequest.cs",
+              "RelativeDocumentMoniker": "APIforReact\\WordRequest.cs",
+              "ToolTip": "C:\\Users\\Albert\\source\\repos\\APIforReact\\APIforReact\\WordRequest.cs",
+              "RelativeToolTip": "APIforReact\\WordRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T08:53:01.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Albert\\source\\repos\\APIforReact\\APIforReact\\Program.cs",
+              "RelativeDocumentMoniker": "APIforReact\\Program.cs",
+              "ToolTip": "C:\\Users\\Albert\\source\\repos\\APIforReact\\APIforReact\\Program.cs",
+              "RelativeToolTip": "APIforReact\\Program.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAACoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T08:42:39.833Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
